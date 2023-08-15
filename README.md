@@ -14,7 +14,7 @@
 
 - 👨 I’m a passionate web developer with 2+ years of hands-on experience 🥳
 - 👀 Interested and fueling my passion for web development
-- 🌱 Focused on innovation | Loves to solve problems with top-notch technologies | Specialized in web technologies | Curious to learn | Committed to write clean, maintainable code. | Aspires to be a MERN Stack Pro 🚀
+- 🌱 Focused on innovation | Specialized in web technologies | Curious to learn | Committed to write clean, maintainable code. | Aspires to be a MERN Stack Pro 🚀
 - 🌐 Let's code the future together! 👨‍💻🌟
 
 <br/>
